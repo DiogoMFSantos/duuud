@@ -243,7 +243,7 @@ button {
     width: 15%;
     float: center;
     height: auto;
-    text-align: center;
+    text-align: cover;
     padding-bottom: 20px;
 }
 .logo_mobile{
