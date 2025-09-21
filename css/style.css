@@ -40,7 +40,7 @@ html {
 }
 
 body {
-     background-image: url(../images/new site look.jpg);
+     background-image: url(../images/Newsitelook.jpg);
      background-size: cover;
      color: #666666;
      font-size: 14px;
@@ -230,7 +230,7 @@ button {
     width: fill;
     height: fill;
     float: left;
-    background-image: url(../images/new_site_look.jpg);
+    background-image: url(../images/background.jpg);
     background-size: cover;
     z-index: 10;
     
@@ -966,6 +966,7 @@ button {
 .copyright_text a:hover{
     color: #ef5051;
 }
+
 
 
 
