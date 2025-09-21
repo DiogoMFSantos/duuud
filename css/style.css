@@ -40,6 +40,8 @@ html {
 }
 
 body {
+     background-image: url(../images/background.jpg);
+     background-size: cover;
      color: #666666;
      font-size: 14px;
      font-family:"Bahnschrift";
@@ -229,7 +231,6 @@ button {
     height: fill;
     float: left;
     background-image: url(../images/background.jpg);
-    background-size: cover;
     z-index: 10;
     
 
@@ -964,6 +965,7 @@ button {
 .copyright_text a:hover{
     color: #ef5051;
 }
+
 
 
 
