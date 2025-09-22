@@ -570,13 +570,7 @@ button {
     color: #000;
     background-color: #ffffff;
 }
-.classes_section{
-    width: 100%;
-    float: left;
-    background-image: url(../images/classes-bg.png);
-    height: auto;
-    padding-bottom: 60px; 
-}
+
 .popular_text{
     width: 100%;
     float: left;
@@ -697,16 +691,7 @@ button {
     background-color: #000;
     color: #ffffff;
 }
-.success_section {
-    width: 100%;
-    float: left;
-    background-image: url(../images/sides.png);
-    height: auto;
-    padding-bottom: 50px;
-    background-size: 100%;
-    background-repeat: no-repeat;
-    
-}
+
 .our_text {
     width: 100%;
     float: left;
@@ -956,6 +941,7 @@ button {
 .copyright_text a:hover{
     color: #ef5051;
 }
+
 
 
 
