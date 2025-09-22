@@ -227,8 +227,8 @@ button {
 }
 
 .header_section {
-    width: fill;
-    height: fill;
+    width: cover;
+    height: cover;
     float: left;
     background-image: url(../images/background.jpg);
     background-size: cover;
@@ -966,6 +966,7 @@ button {
 .copyright_text a:hover{
     color: #ef5051;
 }
+
 
 
 
