@@ -457,15 +457,7 @@ button {
 }
 
 \\supper\\
-.about_section{
-    width: fill;
-    float: left; 
-    background-image: url(../images/about-bg.png);
-    height: auto;
-    background-repeat: no-repeat;
-    background-size: cover; 
-    padding-bottom: 30px;  
-}
+
 
 .image_2{
     width: 100%;
@@ -941,6 +933,7 @@ button {
 .copyright_text a:hover{
     color: #ef5051;
 }
+
 
 
 
